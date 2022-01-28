@@ -55,24 +55,24 @@ h1 {
 @media (min-width: 992px){
    .col-lg{
     float: left;
-    width: 31.333%;
+    width: 29.333%;
    } 
 }
 
 @media (max-width: 991px)  and (min-width:  768px){
   .col-md-1{
     float: left;
-    width: 48%;
+    width: 46%;
   }
   .col-md-2{
     float: left;
-    width: 98%;
+    width: 96%;
     
 }
 
 @media (max-width: 767px) {
   .col-1{
     float: left;
-    width: 98%;
+    width: 96%;
   }
 }
