@@ -89,8 +89,12 @@ body {
 /* Large (lg) */
 @media (min-width: 1200px) {
   .Menu-item {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .Menu-discription {
+    padding-left: 1%;
+    padding-right: 1%;
   }
 }
 
